@@ -1,6 +1,6 @@
 # Vivaha – Privacy Policy
 
-Last updated: October 1, 2026
+Last updated: October 3, 2026
 
 Vivaha helps you plan a wedding in one place: your budget, your options and costs for each part of the event, your vendors and your guest list.
 
@@ -26,9 +26,9 @@ Nothing. We have no servers that receive your information, and the app does not 
 - The app does not read your contacts.
 - No advertising identifiers, analytics, or third-party tracking tools.
 
-## Sharing
+## Sharing with another family
 
-Vivaha does not send your data to anyone. If you choose to copy or share information out of the app yourself (for example in a message), what happens to it then is up to you and the app you share it with.
+Vivaha can export your wedding plan as a file. You choose how to send it (for example AirDrop, WhatsApp or Mail), and it only goes where you send it. If someone imports the file, they get their own independent copy, not a live connection back to you. Apart from that, Vivaha does not send your data to anyone.
 
 ## Backups
 
@@ -48,7 +48,7 @@ Vivaha is not directed at children under 13, and we don't knowingly collect pers
 
 ## Future features
 
-If we add features that change how your information is handled (for example sharing a plan with family or online invitations), we will update this policy before they are released and tell you in the app.
+If we add features that change how your information is handled (for example live sharing with family, iCloud sync or online invitations), we will update this policy before they are released and tell you in the app.
 
 ## Changes to this policy
 
